@@ -5,7 +5,7 @@ var coin_Animation;
 function preload(){
   rider_animation = loadAnimation("images/Rider01.png","images/Rider02.png","images/Rider03.png","images/Rider04.png","images/Rider05.png")
   background_Img = loadImage("images/background.jpg");
-  coin_Animation = loadAnimation("images/coin01.png","images/coin02.png","images/coin03.png","images/coin04.png","images/coin05.png","images/coin06.png")
+  coin_Animation = loadAnimation("images/Coin01.png","images/Coin02.png","images/Coin03.png","images/Coin04.png","images/Coin05.png","images/Coin06.png")
 }
 
 function setup() {
